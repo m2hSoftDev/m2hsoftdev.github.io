@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mehedi Hasan (m2hsoftdev) – Flutter Developer</title>
+  <meta name="description" content="Mehedi Hasan, also known as m2hsoftdev, is a Flutter developer and mobile app engineer from Bangladesh." />
+
+  <!-- Person Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Mehedi Hasan",
+    "alternateName": "m2hsoftdev",
+    "url": "https://m2hsoftdev.github.io",
+    "sameAs": [
+      "https://github.com/m2hSoftDev"
+    ],
+    "jobTitle": "Flutter Developer",
+    "nationality": "Bangladeshi"
+  }
+  </script>
+</head>
+
+<body>
+  <h1>Mehedi Hasan (m2hsoftdev)</h1>
+  <p>
+    Mehedi Hasan, also known as <strong>m2hsoftdev</strong>, is a Flutter developer
+    and mobile app engineer from Bangladesh. He builds Android and iOS applications
+    using Flutter, Dart, Firebase, and REST APIs.
+  </p>
+
+  <h2>Links</h2>
+  <ul>
+    <li><a href="https://github.com/m2hSoftDev">GitHub</a></li>
+  </ul>
+</body>
+</html>
